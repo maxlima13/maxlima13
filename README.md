@@ -20,7 +20,7 @@
 
 - 👨‍🎓 Estudante do IFCE  
 - 🎒 Estudando as disciplinas: **Desenvolvimento Web**, **POO**, **Administração de Sistemas** e **Sistemas Embarcados**  
-- 🔍 Sempre buscando aprender mais sobre pogamação e melhorar minhas habilidades
+- 🔍 Sempre buscando aprender mais sobre programação e melhorar minhas habilidades
 
 ---
 
