@@ -20,3 +20,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maxlima13&show_icons=true&theme=tokyonight"/>
 </div>
 
+---
+
+### 📬 Contato
+
+- Email: max.lima11@aluno.ifce.edu.br
+- Instagram: [@_maxlimaa_](https://instagram.com/_maxlimaa_)  
