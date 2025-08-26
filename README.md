@@ -16,6 +16,14 @@
 
 ---
 
+### 🧠 Sobre mim
+
+- 👨‍🎓 Estudante do IFCE  
+- 🎒 Estudando as disciplinas: **Desenvolvimento Web**, **POO**, **Administração de Sistemas** e **Sistemas Embarcados**  
+- 🔍 Sempre buscando aprender mais sobre pogamação e melhorar minhas habilidades
+
+---
+
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maxlima13&show_icons=true&theme=tokyonight"/>
 </div>
